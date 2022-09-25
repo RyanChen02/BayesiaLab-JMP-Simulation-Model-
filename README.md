@@ -1,8 +1,8 @@
-**BayesiaLab & JMP Simulation Model --- COVID-19 simulation model in California**
+**Data Modeling and Visualization --- UNWSP*
 
-Obtained California COVID-19 open database resources, then analyze the database from symptoms to mortality. Used the BayesiaLab and JMP as analysis tools to generate graphical view. 
+Analyzed the COVID-19 open database resources to transform data sets, quantitative and qualitative analysis into compelling visuals and enhance the editorial guidance (Power BI & JMP). 
 
-•	Observed existing positive cases to predict the possibilities of getting COVID-19.
+•	Observed existing positive cases and confirmed symptoms to predict the possibilities of spreading COVID-19.
 
-•	Constructed model on BayesiaLab and JMP analysis tools to simulate the possibility for each symptom of COVID-19. 
+•	Developed scalable library services related to the discovery, analysis, and visualization of data. 
 
